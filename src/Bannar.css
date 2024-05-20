@@ -1,0 +1,41 @@
+.bannarArea{
+    padding: 122px 0;
+}
+.bannarText h2{
+    font-size: 36px;
+    font-weight: 600;
+}
+.bannarText h1{
+    font-size: 52px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.bannarText span{
+    color: #7456FF;
+}
+.bannarText h5{
+    font-size: 18px;
+    font-weight: 400;
+    color: #999999;
+    margin-top: 10px;
+}
+.bannarText p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #999999;
+    margin-top: 50px;
+    max-width: 619px;
+}
+.bannarArea .imgArea{
+    max-width: 100%;
+}
+.bannarBtn #bBtn{
+    background: none;
+    border: 1px solid white;
+    margin-top: 50px;
+}
+.bannarBtn #bBtn:hover{
+    background: #7456FF;
+    border: 1px solid #7456FF;
+    transition: 0.4s;
+}

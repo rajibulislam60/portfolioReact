@@ -1,0 +1,21 @@
+.navbarArea{
+  padding: 32px 0 !important;
+}
+.list{
+  color: white !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+.list:hover{
+  color: #7456FF !important;
+}
+#btn{
+  border: 1px solid #7456FF;
+  color: #7456FF;
+  font-size: 20px;
+  font-weight: 600;
+}
+#btn:hover{
+  background: #7456FF;
+  color: white;
+}
