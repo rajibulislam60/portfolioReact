@@ -1,0 +1,24 @@
+.footerArea{
+    padding: 90px 0;
+}
+.footerArea .footerTitle h3{
+    font-size: 36px;
+    font-weight: 600;
+}
+.footerArea .footerTitle p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #999999;
+    margin-top: 30px;
+}
+.iconColor{
+    color: white;
+    font-size: 42px;
+}
+.itembox{
+    margin-top: 30px;
+}
+.footerImg{
+    margin-left: 425px;
+    margin-top: 70px;
+}

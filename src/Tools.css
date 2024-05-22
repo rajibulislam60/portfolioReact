@@ -1,0 +1,14 @@
+
+.toolsTitle{
+    text-align: center;
+}
+.toolsTitle h3{
+    font-size: 36px;
+    font-weight: 600;
+}
+.toolsItem{
+    margin-top: 90px;
+}
+.toolsItem img{
+    max-width: 250px;
+}

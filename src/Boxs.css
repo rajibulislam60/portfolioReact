@@ -1,0 +1,20 @@
+.boxsArea{
+    padding: 70px 0;
+}
+.boxsArea .boxItem {
+    text-align: center;
+    border: 1px dotted white;
+    max-width: 255px;
+    height: 223px;
+    padding-top: 20%;
+    border-radius: 6px;
+    transition: 0.4s;
+}
+.boxsArea .boxItem:hover{
+    background: #7456FF;
+    border: 1px solid #7456FF;
+}
+.boxsArea .boxItem .number{
+    font-size: 48px;
+    font-weight: 600;
+}

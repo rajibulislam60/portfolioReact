@@ -1,0 +1,39 @@
+.testimonialsArea{
+    padding: 74px 0;
+}
+.testimonialsTitle{
+    text-align: center;
+}
+.testimonialsTitle h5{
+    font-size: 20px;
+    font-weight: 600;
+    color: #707070;
+}
+.testimonialsTitle h2{
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 28px;
+}
+#testimonialsHero{
+    padding: 101px 0;
+}
+.testimonialsText{
+    padding-top: 91px;
+}
+.testimonialsText p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #999999;
+    max-width: 618px;
+    margin-bottom: 16px;
+}
+.testimonialsText h3{
+    font-size: 28px;
+    font-weight: 600;
+    color: #7456FF;
+    margin-bottom: 15px;
+}
+.testimonialsText h6{
+    font-size: 14px;
+    font-weight: 400;
+}

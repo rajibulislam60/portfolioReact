@@ -1,0 +1,51 @@
+.serviceArea{
+    padding: 60px 0;
+}
+.serviceArea .serviceTitle{
+    text-align: center;
+}
+.serviceTitle h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #707070;
+}
+.serviceTitle h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-top: 30px;
+    max-width: 634px;
+    margin: 0 auto;
+    line-height: 50px;
+}
+.serviceItem{
+    text-align: center;
+    margin-top: 160px;
+    margin-bottom: 60px;
+}
+.itemBox {
+    height: 334px;
+    width: 334px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+
+.itemBox h3 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgba(116, 86, 255, 0.2);
+    transition: all 0.3s ease;
+}
+
+.itemBox:hover{
+    /* height: 364px;
+    width: 364px; */
+    border: 1px solid #7456FF;
+}
+.itemBox:hover h3{
+    font-size: 30px;
+    color: #7456FF;
+}
